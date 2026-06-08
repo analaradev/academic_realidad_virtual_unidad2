@@ -1,22 +1,34 @@
 # Realidad Virtual - Unidad 2
 
-Repositorio academico con evidencias y practicas de la Unidad 2 de la materia de Realidad Virtual.
+<div align="center">
 
-## Objetivo
+![Academic](https://img.shields.io/badge/Tipo-Academico-6f42c1?style=for-the-badge)
+![VR](https://img.shields.io/badge/Clase-Realidad%20Virtual-0ea5e9?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Finalizado-22c55e?style=for-the-badge)
 
-Conservar actividades y avances relacionados con el desarrollo de experiencias de realidad virtual, continuando el trabajo realizado en unidades previas.
+**Evidencia finalizada para la clase de Realidad Virtual, unidad 2.**
 
-## Categoria
+</div>
 
-`academic-` - trabajos, practicas y proyectos realizados como parte de mi formacion universitaria.
+---
 
-## Enfoque del proyecto
+## Contexto Academico
 
-- Practicas de realidad virtual
-- Desarrollo de escenas o experiencias interactivas
-- Evidencias academicas por unidad
-- Experimentacion con herramientas de desarrollo 3D
+Repositorio con actividades y evidencias de la Unidad 2, continuando la exploracion de experiencias interactivas y realidad virtual.
+
+## Proposito
+
+- Conservar practicas finalizadas de la unidad.
+- Explorar escenas o experiencias interactivas.
+- Practicar herramientas de desarrollo 3D.
+- Documentar evidencia academica.
+
+## Temas
+
+![VR](https://img.shields.io/badge/Realidad%20Virtual-7c3aed?style=flat-square)
+![Unity](https://img.shields.io/badge/Desarrollo%203D-2563eb?style=flat-square)
+![Academic](https://img.shields.io/badge/Evidencia%20Academica-16a34a?style=flat-square)
 
 ## Estado
 
-Repositorio academico para evidencia de clase.
+Repositorio academico finalizado.
